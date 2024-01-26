@@ -45,14 +45,14 @@ h2 {
 }
 
 h3 {
-  color: #ffa400;
+  color: #5c1919;
   font-size: 16px;
   letter-spacing: 26px;
   letter-spacing: 2px;
 }
 
 h5 {
-  color: #ffa400;
+  color: #5c1919;
   line-height: 28px;
   letter-spacing: 2px;
 }
@@ -105,7 +105,7 @@ p {
     padding: 0px;
   }
 .navbar-default .navbar-nav li a:hover {
-    color: #ffa400;
+    color: #5c1919;
   }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -115,7 +115,7 @@ p {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #ffa400;
+  color: #5c1919;
   background-color: transparent;
 }
 .navbar-default .navbar-toggle {
@@ -123,7 +123,7 @@ p {
      padding-top: 12px;
   }
 .navbar-default .navbar-toggle .icon-bar {
-    background: #ffa400;
+    background: #5c1919;
     border-color: transparent;
   }
 .navbar-default .navbar-toggle:hover,
@@ -153,12 +153,12 @@ p {
 }
 
 #home .btn-danger {
-  background: #ffa400 !important;
+  background: #5c1919 !important;
   margin-right: 20px;
 }
 
 #home .btn-danger:hover {
-  background: #ffc400 !important;
+  background: #350e0e !important;
 }
 
 #home .btn {
@@ -173,7 +173,7 @@ p {
 }
 
 #home .btn:hover {
-  background: #ffa400;
+  background: #5c1919;
 }
 
 
@@ -270,7 +270,7 @@ p {
 }
 
 #counter .counter-number {
-  color: #ffa400;
+  color: #5c1919;
   font-size: 32px;
 }
 
@@ -312,7 +312,7 @@ p {
 }
 
 #contact input[type="submit"]:hover {
-  background: #ffa400;
+  background: #5c1919;
 }
 
 .form-control::-moz-placeholder {
@@ -358,7 +358,7 @@ footer a {
 }
 
 footer a:hover {
-  color: #ffa400;
+  color: #5c1919;
   text-decoration: none;
 }
 
@@ -391,7 +391,7 @@ footer a:hover {
   margin-right: 2px;
 }
 .social-icon li a:hover {
-  background: #ffa400;
+  background: #5c1919;
 }
 
 

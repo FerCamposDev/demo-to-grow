@@ -136,7 +136,7 @@ p {
 /* home section styles
 /* ========================================== */
 #home {
-  background: url('../img/home-bg.jpg') 50% 0 repeat-y fixed;
+  background: url('../img/home-bg-desktop-1080.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -437,9 +437,18 @@ footer a:hover {
     font-size: 28px;
     line-height: 38px;
   }
-  #home h5 {
-    font-size: 11px;
+  #home {
+    background: url('../img/home-bg-phone-3.jpg') 50% 0 repeat-y fixed;
   }
+  #home h3 {
+    color: #fff;
+    text-shadow: #5f0000 2px 2px 5px;
+  }
+  
+  #home  h1 {
+    color: #fff;
+    text-shadow: #5f0000 2px 2px 5px;
+}
   #home .btn {
     display: inline-block;
     padding: 14px 32px;
